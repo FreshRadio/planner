@@ -1,0 +1,2291 @@
+{
+ "version": "2026.08.25-1",
+ "updated": "2026-08-25",
+ "semester": {
+  "label": "Fall 2026",
+  "lastClassDay": "2026-12-07",
+  "finalTarget": "2026-12-14",
+  "finalLabel": "E M 306 final"
+ },
+ "dayPlan": {
+  "0": {
+   "name": "Sunday",
+   "blocks": [
+    {
+     "time": "8:00 AM",
+     "name": "Gym — Upper Body Power",
+     "meta": "75 min · heavy press + pull",
+     "kind": "life",
+     "key": "gym"
+    },
+    {
+     "time": "10:00 AM",
+     "name": "Church + Family",
+     "meta": "protected",
+     "kind": "life",
+     "key": "church"
+    },
+    {
+     "time": "2:30 PM",
+     "name": "Applications — this week's wave",
+     "meta": "75 min · see Plan tab for the named list",
+     "kind": "work",
+     "key": "career"
+    },
+    {
+     "time": "4:15 PM",
+     "name": "Aerospace — Review + Document",
+     "meta": "60 min · GitHub, README, photos",
+     "kind": "work",
+     "key": "aerodoc"
+    },
+    {
+     "time": "5:30 PM",
+     "name": "Cook + Meal Prep",
+     "meta": "60 min · portions for the week",
+     "kind": "life",
+     "key": "cook"
+    },
+    {
+     "time": "7:00 PM",
+     "name": "Weekly Review + Plan",
+     "meta": "45 min · update the career hub",
+     "kind": "work",
+     "key": "review"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "lay out clothes, pack the bag",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "1": {
+   "name": "Monday",
+   "blocks": [
+    {
+     "time": "7:00 AM",
+     "name": "Wake · Intention · Bible · Reading",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "anchors"
+    },
+    {
+     "time": "7:30 AM",
+     "name": "Breakfast + Get Ready",
+     "meta": "35 min · bag packed last night",
+     "kind": "life",
+     "key": "breakfast"
+    },
+    {
+     "time": "8:10 AM",
+     "name": "Morning Prep",
+     "meta": "40 min · preview today's lectures",
+     "kind": "work",
+     "key": "prep"
+    },
+    {
+     "time": "9:00 AM",
+     "name": "E M 306 Statics",
+     "meta": "WEL 3.502 · attendance quiz",
+     "kind": "class"
+    },
+    {
+     "time": "10:15 AM",
+     "name": "Statics Review",
+     "meta": "35 min · clean up notes",
+     "kind": "work",
+     "key": "staticsrev"
+    },
+    {
+     "time": "11:00 AM",
+     "name": "M 427J Diff Eq",
+     "meta": "PAI 3.02",
+     "kind": "class"
+    },
+    {
+     "time": "12:00 PM",
+     "name": "Lunch + Reset",
+     "meta": "full hour, no laptop",
+     "kind": "life",
+     "key": "lunch"
+    },
+    {
+     "time": "1:00 PM",
+     "name": "M 427J Problem Set",
+     "meta": "45 min",
+     "kind": "work",
+     "key": "m427j"
+    },
+    {
+     "time": "2:00 PM",
+     "name": "M E 316T Thermo",
+     "meta": "BUR 112",
+     "kind": "class"
+    },
+    {
+     "time": "3:15 PM",
+     "name": "M E 316T Problem Set",
+     "meta": "75 min · PA due 10 PM tonight",
+     "kind": "work",
+     "key": "thermo"
+    },
+    {
+     "time": "5:00 PM",
+     "name": "Gym — Lower Body Power + Sprints",
+     "meta": "90 min",
+     "kind": "life",
+     "key": "gym"
+    },
+    {
+     "time": "7:00 PM",
+     "name": "Cook Dinner",
+     "meta": "50 min",
+     "kind": "life",
+     "key": "cook"
+    },
+    {
+     "time": "8:00 PM",
+     "name": "Python + Coursera",
+     "meta": "70 min · see Plan tab",
+     "kind": "work",
+     "key": "python"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "lay out clothes, pack the bag",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "2": {
+   "name": "Tuesday",
+   "blocks": [
+    {
+     "time": "7:00 AM",
+     "name": "Wake · Intention · Bible · Reading",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "anchors"
+    },
+    {
+     "time": "7:30 AM",
+     "name": "Breakfast + Get Ready",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "breakfast"
+    },
+    {
+     "time": "8:05 AM",
+     "name": "Active Rest — walk / mobility",
+     "meta": "30 min · no lifting today",
+     "kind": "life",
+     "key": "rest"
+    },
+    {
+     "time": "8:45 AM",
+     "name": "Aerospace Project — build",
+     "meta": "90 min · see Plan tab",
+     "kind": "work",
+     "key": "aero"
+    },
+    {
+     "time": "10:30 AM",
+     "name": "Python / CS for Engineering",
+     "meta": "60 min · see Plan tab",
+     "kind": "work",
+     "key": "python"
+    },
+    {
+     "time": "11:45 AM",
+     "name": "Lunch + walk to GSB",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "lunch"
+    },
+    {
+     "time": "12:30 PM",
+     "name": "LEB 320F Business Law",
+     "meta": "GSB 2.124 · participation graded",
+     "kind": "class"
+    },
+    {
+     "time": "2:15 PM",
+     "name": "M 427J Problem Set + QUIZ",
+     "meta": "90 min · quiz opened 8 AM, submit today",
+     "kind": "work",
+     "key": "m427j"
+    },
+    {
+     "time": "4:15 PM",
+     "name": "Early Dinner + walk to PMA",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "dinner"
+    },
+    {
+     "time": "5:00 PM",
+     "name": "M 427J Discussion",
+     "meta": "PMA 4.102",
+     "kind": "class"
+    },
+    {
+     "time": "6:15 PM",
+     "name": "Thermo CA + Statics quiz prep",
+     "meta": "75 min · both are due tomorrow",
+     "kind": "work",
+     "key": "tueprep"
+    },
+    {
+     "time": "7:30 PM",
+     "name": "Evening Off",
+     "meta": "no coursework",
+     "kind": "life",
+     "key": "off"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "lay out clothes, pack the bag",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "3": {
+   "name": "Wednesday",
+   "blocks": [
+    {
+     "time": "7:00 AM",
+     "name": "Wake · Intention · Bible · Reading",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "anchors"
+    },
+    {
+     "time": "7:30 AM",
+     "name": "Breakfast + Get Ready",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "breakfast"
+    },
+    {
+     "time": "8:10 AM",
+     "name": "Morning Prep",
+     "meta": "40 min",
+     "kind": "work",
+     "key": "prep"
+    },
+    {
+     "time": "9:00 AM",
+     "name": "E M 306 Statics",
+     "meta": "WEL 3.502",
+     "kind": "class"
+    },
+    {
+     "time": "10:15 AM",
+     "name": "Statics Review",
+     "meta": "35 min",
+     "kind": "work",
+     "key": "staticsrev"
+    },
+    {
+     "time": "11:00 AM",
+     "name": "M 427J Diff Eq",
+     "meta": "PAI 3.02",
+     "kind": "class"
+    },
+    {
+     "time": "12:00 PM",
+     "name": "Lunch + Reset",
+     "meta": "full hour",
+     "kind": "life",
+     "key": "lunch"
+    },
+    {
+     "time": "1:00 PM",
+     "name": "M 427J Problem Set",
+     "meta": "45 min",
+     "kind": "work",
+     "key": "m427j"
+    },
+    {
+     "time": "2:00 PM",
+     "name": "M E 316T Thermo",
+     "meta": "BUR 112",
+     "kind": "class"
+    },
+    {
+     "time": "3:05 PM",
+     "name": "Early Dinner + walk to CMA",
+     "meta": "40 min · you are in class 4-7",
+     "kind": "life",
+     "key": "dinner"
+    },
+    {
+     "time": "4:00 PM",
+     "name": "E M 306 Discussion — QUIZ",
+     "meta": "CMA 3.114 · 2 hrs",
+     "kind": "class"
+    },
+    {
+     "time": "6:00 PM",
+     "name": "M E 316T Discussion — QUIZ",
+     "meta": "ETC 4.150 · NO GAP, see note",
+     "kind": "class"
+    },
+    {
+     "time": "7:15 PM",
+     "name": "Gym — Upper Body Hypertrophy",
+     "meta": "75 min · CA due 10 PM (do it Tue)",
+     "kind": "life",
+     "key": "gym"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "lay out clothes, pack the bag",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "4": {
+   "name": "Thursday",
+   "blocks": [
+    {
+     "time": "7:00 AM",
+     "name": "Wake · Intention · Bible · Reading",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "anchors"
+    },
+    {
+     "time": "7:30 AM",
+     "name": "Breakfast + Get Ready",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "breakfast"
+    },
+    {
+     "time": "8:05 AM",
+     "name": "Active Rest — walk / mobility",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "rest"
+    },
+    {
+     "time": "8:45 AM",
+     "name": "Aerospace Project — build",
+     "meta": "90 min · see Plan tab",
+     "kind": "work",
+     "key": "aero"
+    },
+    {
+     "time": "10:30 AM",
+     "name": "Python / CS for Engineering",
+     "meta": "60 min · see Plan tab",
+     "kind": "work",
+     "key": "python"
+    },
+    {
+     "time": "11:45 AM",
+     "name": "Lunch + walk to GSB",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "lunch"
+    },
+    {
+     "time": "12:30 PM",
+     "name": "LEB 320F Business Law",
+     "meta": "GSB 2.124",
+     "kind": "class"
+    },
+    {
+     "time": "2:15 PM",
+     "name": "E M 306 Problem Set",
+     "meta": "90 min · never collected, still do it",
+     "kind": "work",
+     "key": "statics"
+    },
+    {
+     "time": "4:15 PM",
+     "name": "Early Dinner + walk to PMA",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "dinner"
+    },
+    {
+     "time": "5:00 PM",
+     "name": "M 427J Discussion",
+     "meta": "PMA 4.102",
+     "kind": "class"
+    },
+    {
+     "time": "6:15 PM",
+     "name": "Evening Off",
+     "meta": "longest free evening you have",
+     "kind": "life",
+     "key": "off"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "lay out clothes, pack the bag",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "5": {
+   "name": "Friday",
+   "blocks": [
+    {
+     "time": "7:00 AM",
+     "name": "Wake · Intention · Bible · Reading",
+     "meta": "30 min",
+     "kind": "life",
+     "key": "anchors"
+    },
+    {
+     "time": "7:30 AM",
+     "name": "Breakfast + Get Ready",
+     "meta": "35 min",
+     "kind": "life",
+     "key": "breakfast"
+    },
+    {
+     "time": "8:10 AM",
+     "name": "Morning Prep",
+     "meta": "40 min",
+     "kind": "work",
+     "key": "prep"
+    },
+    {
+     "time": "9:00 AM",
+     "name": "E M 306 Statics",
+     "meta": "WEL 3.502",
+     "kind": "class"
+    },
+    {
+     "time": "10:15 AM",
+     "name": "Statics Review",
+     "meta": "35 min",
+     "kind": "work",
+     "key": "staticsrev"
+    },
+    {
+     "time": "11:00 AM",
+     "name": "M 427J Diff Eq",
+     "meta": "PAI 3.02",
+     "kind": "class"
+    },
+    {
+     "time": "12:00 PM",
+     "name": "Lunch + Reset",
+     "meta": "full hour",
+     "kind": "life",
+     "key": "lunch"
+    },
+    {
+     "time": "1:00 PM",
+     "name": "LEB 320F Reading",
+     "meta": "45 min · stay ahead of it",
+     "kind": "work",
+     "key": "leb"
+    },
+    {
+     "time": "2:00 PM",
+     "name": "M E 316T Thermo",
+     "meta": "BUR 112",
+     "kind": "class"
+    },
+    {
+     "time": "3:15 PM",
+     "name": "Gym — Speed, Agility + Full Body",
+     "meta": "90 min",
+     "kind": "life",
+     "key": "gym"
+    },
+    {
+     "time": "5:00 PM",
+     "name": "Off — rest of the day is yours",
+     "meta": "no coursework, no project",
+     "kind": "life",
+     "key": "off"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  },
+  "6": {
+   "name": "Saturday",
+   "blocks": [
+    {
+     "time": "8:30 AM",
+     "name": "Gym — Light Weights + Flexibility",
+     "meta": "50 min · recovery",
+     "kind": "life",
+     "key": "gym"
+    },
+    {
+     "time": "10:00 AM",
+     "name": "Aerospace Project — Deep Work",
+     "meta": "2.5 hrs · biggest build window",
+     "kind": "work",
+     "key": "aero"
+    },
+    {
+     "time": "2:00 PM",
+     "name": "Catch-Up — whatever slipped",
+     "meta": "90 min · see Plan tab for what you owe",
+     "kind": "work",
+     "key": "catchup"
+    },
+    {
+     "time": "3:30 PM",
+     "name": "Off — rest of the day is yours",
+     "meta": "",
+     "kind": "life",
+     "key": "off"
+    },
+    {
+     "time": "9:15 PM",
+     "name": "Journal + Evening Reading",
+     "meta": "40 min",
+     "kind": "life",
+     "key": "journal"
+    },
+    {
+     "time": "11:00 PM",
+     "name": "Wind Down",
+     "meta": "",
+     "kind": "life",
+     "key": "winddown"
+    }
+   ]
+  }
+ },
+ "books": [
+  {
+   "id": "b1",
+   "title": "Meditations — Marcus Aurelius",
+   "read": false
+  },
+  {
+   "id": "b2",
+   "title": "The Power of Habit",
+   "read": false
+  },
+  {
+   "id": "b3",
+   "title": "Ignition — John D. Clark",
+   "read": false
+  },
+  {
+   "id": "b4",
+   "title": "Brunelleschi's Dome",
+   "read": false
+  },
+  {
+   "id": "b5",
+   "title": "How Innovation Works — Matt Ridley",
+   "read": false
+  },
+  {
+   "id": "b6",
+   "title": "East of Eden",
+   "read": false
+  },
+  {
+   "id": "b7",
+   "title": "The Politics — Aristotle",
+   "read": false
+  }
+ ],
+ "events": [
+  {
+   "date": "2026-08-24",
+   "type": "career",
+   "course": "Career",
+   "text": "Find TREL / Longhorn Racing / Texas Aerial Robotics info sessions — this outranks every solo project"
+  },
+  {
+   "date": "2026-08-28",
+   "type": "career",
+   "course": "Career",
+   "text": "Confirm export-control / US person eligibility before building the target employer list"
+  },
+  {
+   "date": "2026-09-04",
+   "type": "career",
+   "course": "Career",
+   "text": "Join a UT project team by end of week 2 — deadline you set yourself"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "career",
+   "course": "Career",
+   "text": "NASA OSTEM Spring 2027 application deadline"
+  },
+  {
+   "date": "2026-10-31",
+   "type": "career",
+   "course": "Career",
+   "text": "Target: half of your 40 Summer 2027 applications submitted (~20)"
+  },
+  {
+   "date": "2026-12-07",
+   "type": "career",
+   "course": "Career",
+   "text": "Target: one documented project shipped to GitHub, link in resume header"
+  },
+  {
+   "date": "2026-09-07",
+   "type": "lecture",
+   "course": "All",
+   "text": "LABOR DAY — no classes"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "due",
+   "course": "Admin",
+   "text": "Last day to drop a course without permission"
+  },
+  {
+   "date": "2026-11-18",
+   "type": "due",
+   "course": "Admin",
+   "text": "Last day to Q-drop, withdraw, or change to/from pass-fail"
+  },
+  {
+   "date": "2026-11-23",
+   "type": "lecture",
+   "course": "All",
+   "text": "THANKSGIVING BREAK begins — no classes through 11/28"
+  },
+  {
+   "date": "2026-08-26",
+   "type": "due",
+   "course": "M427J",
+   "text": "Quizzes open Tue 8 AM, close Thu 8 PM — but Thu 6-8 PM you are in E M 306 discussion. Submit by Tuesday afternoon, every week."
+  },
+  {
+   "date": "2026-08-27",
+   "type": "due",
+   "course": "LEB",
+   "text": "Ask Prof. Q or the TA for the two midterm dates — not listed in the syllabus"
+  },
+  {
+   "date": "2026-08-24",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 1 — Introduction, Force"
+  },
+  {
+   "date": "2026-08-31",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 2 — Force, Moment"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 3 — Couples, Free body diagrams"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 4 — Equilibrium conditions, 2D problems"
+  },
+  {
+   "date": "2026-09-21",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 5 — Plane trusses, methods of joints and sections"
+  },
+  {
+   "date": "2026-09-28",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 6 — Frames, Review"
+  },
+  {
+   "date": "2026-10-05",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 7 — Distributed loads and equivalent force systems"
+  },
+  {
+   "date": "2026-10-12",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 8 — Beams with distributed loads, internal forces and moments"
+  },
+  {
+   "date": "2026-10-19",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 9 — Shear and bending moment diagrams"
+  },
+  {
+   "date": "2026-10-26",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 10 — Review, Vector algebra"
+  },
+  {
+   "date": "2026-11-02",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 11 — Three-dimensional force systems and equilibrium"
+  },
+  {
+   "date": "2026-11-09",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 12 — Three-dimensional equilibrium"
+  },
+  {
+   "date": "2026-11-16",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 13 — Dry friction"
+  },
+  {
+   "date": "2026-11-30",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Wk 14 — Centroids, area moments of inertia"
+  },
+  {
+   "date": "2026-12-07",
+   "type": "lecture",
+   "course": "EM306",
+   "text": "Last class day — Review"
+  },
+  {
+   "date": "2026-08-27",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308, 6-8 PM"
+  },
+  {
+   "date": "2026-09-03",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-09-10",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-09-17",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-09-24",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-10-08",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-10-15",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-10-22",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-11-05",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-11-12",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "quiz",
+   "course": "EM306",
+   "text": "Discussion quiz — ECJ 1.308"
+  },
+  {
+   "date": "2026-10-01",
+   "type": "exam",
+   "course": "EM306",
+   "text": "TEST 1 — 4-6 or 6-8 PM (confirm your slot on Canvas)"
+  },
+  {
+   "date": "2026-10-29",
+   "type": "exam",
+   "course": "EM306",
+   "text": "TEST 2 — 4-6 or 6-8 PM"
+  },
+  {
+   "date": "2026-12-03",
+   "type": "exam",
+   "course": "EM306",
+   "text": "TEST 3 — 4-6 or 6-8 PM"
+  },
+  {
+   "date": "2026-12-14",
+   "type": "exam",
+   "course": "EM306",
+   "text": "FINAL EXAM — 10:30 AM to 12:30 PM · do not schedule travel"
+  },
+  {
+   "date": "2026-09-18",
+   "type": "exam",
+   "course": "M427J",
+   "text": "EXAM 1 — in class, PAI 3.02 · no calculators, no decimals"
+  },
+  {
+   "date": "2026-10-09",
+   "type": "exam",
+   "course": "M427J",
+   "text": "EXAM 2 — in class, PAI 3.02"
+  },
+  {
+   "date": "2026-10-30",
+   "type": "exam",
+   "course": "M427J",
+   "text": "EXAM 3 — in class, PAI 3.02 · morning after E M 306 Test 2"
+  },
+  {
+   "date": "2026-08-24",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Introduction"
+  },
+  {
+   "date": "2026-08-26",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "SIR Model (Judson 2.1.3)"
+  },
+  {
+   "date": "2026-08-28",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "First order linear — Braun 1.2 · HW: Ex 1,3,4,6,11,15,16,20-23"
+  },
+  {
+   "date": "2026-08-31",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Separable — Braun 1.4 · HW: Ex 1-10 · LinAlg 1 week: Vectors and Matrices"
+  },
+  {
+   "date": "2026-09-02",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Separable — Braun 1.4 continued"
+  },
+  {
+   "date": "2026-09-04",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Second order linear — Braun 2.1 · HW: Ex 1-9"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Distinct real roots — Braun 2.2 · HW: Ex 1-8 · LinAlg 2 week: Solving Linear Systems"
+  },
+  {
+   "date": "2026-09-11",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Complex roots — Braun 2.2.1 · HW: Ex 1-6, 8-10"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Repeated roots — Braun 2.2.2 · HW: Ex 1-7 · LinAlg 3 week: Matrix Inverses"
+  },
+  {
+   "date": "2026-09-16",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Second order nonhomogeneous — Braun 2.3 · HW: Ex 1-3"
+  },
+  {
+   "date": "2026-09-21",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Judicious guessing — Braun 2.5 · HW: Ex 1-14 · LinAlg 4 week: Determinants"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Judicious guessing — Braun 2.5"
+  },
+  {
+   "date": "2026-09-25",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Harmonic oscillators — Braun 2.5"
+  },
+  {
+   "date": "2026-09-28",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Linear systems — Braun 3.1 · HW: Ex 4-9"
+  },
+  {
+   "date": "2026-09-30",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Linear systems — Braun 3.1"
+  },
+  {
+   "date": "2026-10-02",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 5 — Vector Spaces · HW: memorize the blue boxes"
+  },
+  {
+   "date": "2026-10-05",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 6 — Subspaces"
+  },
+  {
+   "date": "2026-10-07",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 7 — Span"
+  },
+  {
+   "date": "2026-10-12",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 7 — Span continued"
+  },
+  {
+   "date": "2026-10-14",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 8 — Basis"
+  },
+  {
+   "date": "2026-10-16",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "LinAlg 8 — Basis continued"
+  },
+  {
+   "date": "2026-10-19",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Real eigenvalues — Braun 3.8 · HW: Ex 1-12"
+  },
+  {
+   "date": "2026-10-21",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Real eigenvalues — Braun 3.8"
+  },
+  {
+   "date": "2026-10-23",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Complex eigenvalues — Braun 3.9 · HW: Ex 1, 5, 6"
+  },
+  {
+   "date": "2026-10-26",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Generalized eigenvectors — Braun 3.10"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Matrix exponential — Braun 3.11 · HW: Ex 1-7"
+  },
+  {
+   "date": "2026-11-02",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Phase plane — Braun 4.7 · HW: Ex 1-11"
+  },
+  {
+   "date": "2026-11-04",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Phase plane — Braun 4.7"
+  },
+  {
+   "date": "2026-11-06",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Phase plane — Braun 4.7"
+  },
+  {
+   "date": "2026-11-09",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Nonlinear systems — Braun 4.10 · HW: Ex 3, 4"
+  },
+  {
+   "date": "2026-11-11",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Nonlinear systems — Braun 4.10"
+  },
+  {
+   "date": "2026-11-13",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Nonlinear systems — Braun 4.10"
+  },
+  {
+   "date": "2026-11-16",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "PDEs and the heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-11-18",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-11-20",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-11-30",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-12-02",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-12-04",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Heat equation — Braun Ch. 5"
+  },
+  {
+   "date": "2026-12-07",
+   "type": "lecture",
+   "course": "M427J",
+   "text": "Last class day — Braun Ch. 5"
+  },
+  {
+   "date": "2026-09-01",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 1 opens 8 AM — do it today, closes Thu 8 PM"
+  },
+  {
+   "date": "2026-09-03",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 1 CLOSES 8 PM — you are in E M 306 discussion 6-8"
+  },
+  {
+   "date": "2026-09-08",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 2 opens 8 AM"
+  },
+  {
+   "date": "2026-09-10",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 2 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-09-15",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 3 opens 8 AM"
+  },
+  {
+   "date": "2026-09-17",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 3 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-09-22",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 4 opens 8 AM"
+  },
+  {
+   "date": "2026-09-24",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 4 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-09-29",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 5 opens 8 AM"
+  },
+  {
+   "date": "2026-10-01",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 5 CLOSES 8 PM — same day as E M 306 Test 1, do it Tuesday"
+  },
+  {
+   "date": "2026-10-06",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 6 opens 8 AM"
+  },
+  {
+   "date": "2026-10-08",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 6 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-10-13",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 7 opens 8 AM"
+  },
+  {
+   "date": "2026-10-15",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 7 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-10-20",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 8 opens 8 AM"
+  },
+  {
+   "date": "2026-10-22",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 8 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-10-27",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 9 opens 8 AM"
+  },
+  {
+   "date": "2026-10-29",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 9 CLOSES 8 PM — same day as E M 306 Test 2, do it Tuesday"
+  },
+  {
+   "date": "2026-11-03",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 10 opens 8 AM"
+  },
+  {
+   "date": "2026-11-05",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 10 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-11-10",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 11 opens 8 AM"
+  },
+  {
+   "date": "2026-11-12",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 11 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-11-17",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 12 opens 8 AM"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 12 CLOSES 8 PM"
+  },
+  {
+   "date": "2026-12-01",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 13 opens 8 AM"
+  },
+  {
+   "date": "2026-12-03",
+   "type": "quiz",
+   "course": "M427J",
+   "text": "Quiz 13 CLOSES 8 PM — same day as E M 306 Test 3, do it Tuesday"
+  },
+  {
+   "date": "2026-08-24",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Intro, Control Mass vs Control Volume (Ch. 1.1-1.2)"
+  },
+  {
+   "date": "2026-08-26",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Unit systems, p-v-T properties (Ch. 1.4-1.7) · NO discussion tonight"
+  },
+  {
+   "date": "2026-08-28",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Energy, energy transfer by work / heat (Ch. 2.1-2.4)"
+  },
+  {
+   "date": "2026-08-31",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Work / heat examples (Ch. 2.3-2.5)"
+  },
+  {
+   "date": "2026-09-02",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Polytropic processes (Ch. 2.2, 3.15, 6.13)"
+  },
+  {
+   "date": "2026-09-04",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: energy balance (Ch. 2.5)"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "State principle, p-v-T relation (Ch. 1.3, 3.1-3.2)"
+  },
+  {
+   "date": "2026-09-11",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Liquid-vapor properties, mixture quality (Ch. 3.3-3.6, 3.10)"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Retrieving property data examples (Ch. 3.5-3.6, 3.10)"
+  },
+  {
+   "date": "2026-09-16",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Linear interpolation review, pvT diagrams"
+  },
+  {
+   "date": "2026-09-18",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Ideal gas properties, specific heat (Ch. 3.9, 3.12-3.14)"
+  },
+  {
+   "date": "2026-09-21",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Non-ideal gas, compressibility factor (Ch. 3.11, 3.13-3.14)"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: control mass examples (Ch. 3.14)"
+  },
+  {
+   "date": "2026-09-25",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: control mass examples II (Ch. 3.14)"
+  },
+  {
+   "date": "2026-09-28",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Exam 1 Review"
+  },
+  {
+   "date": "2026-10-02",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: CVs, mass conservation, flowchart (Ch. 4.1-4.4)"
+  },
+  {
+   "date": "2026-10-05",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: CV examples I, SSSF components (Ch. 4.5-4.7)"
+  },
+  {
+   "date": "2026-10-07",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "1st law: CV examples I continued"
+  },
+  {
+   "date": "2026-10-09",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "CV examples II + transient analysis (Ch. 4.8-4.12)"
+  },
+  {
+   "date": "2026-10-12",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Transient analysis examples I and II (Ch. 4.11-4.12)"
+  },
+  {
+   "date": "2026-10-14",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Transient analysis examples II (Ch. 4.12)"
+  },
+  {
+   "date": "2026-10-16",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Transient analysis examples II continued"
+  },
+  {
+   "date": "2026-10-19",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Exam 2 Review"
+  },
+  {
+   "date": "2026-10-23",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "2nd law: Clausius / Kelvin-Planck, Entropy (Ch. 5.1-5.3, 6.1)"
+  },
+  {
+   "date": "2026-10-26",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "T ds equations, Gibbs eqn, entropy change (Ch. 6.1-6.5)"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "2nd law: isolated systems, reversibility (Ch. 5.3)"
+  },
+  {
+   "date": "2026-10-30",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "2nd law: control mass example (Ch. 6.6-6.7)"
+  },
+  {
+   "date": "2026-11-02",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Control volume examples (Ch. 6.9-6.10)"
+  },
+  {
+   "date": "2026-11-04",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Transient processes, examples (Ch. 6.11)"
+  },
+  {
+   "date": "2026-11-06",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Isentropic processes for ideal gases (Ch. 6.11)"
+  },
+  {
+   "date": "2026-11-09",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Isentropic efficiencies of components (Ch. 6.12)"
+  },
+  {
+   "date": "2026-11-11",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Thermo cycle analyses, Carnot cycle (Ch. 5.9-5.10, 2.6)"
+  },
+  {
+   "date": "2026-11-13",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Rankine cycle (steam turbine), example (Ch. 8.2)"
+  },
+  {
+   "date": "2026-11-16",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Exam 3 Review"
+  },
+  {
+   "date": "2026-11-30",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Rankine cycle with reheat (Ch. 8.3)"
+  },
+  {
+   "date": "2026-12-02",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Otto and Diesel cycles (Ch. 9.2-9.3)"
+  },
+  {
+   "date": "2026-12-04",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Brayton cycle (Ch. 9.6)"
+  },
+  {
+   "date": "2026-12-07",
+   "type": "lecture",
+   "course": "ME316T",
+   "text": "Final Exam Review"
+  },
+  {
+   "date": "2026-08-31",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #1 due 10 PM — Ch. 1.2, 1.4-1.7, 1.9"
+  },
+  {
+   "date": "2026-09-02",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #1 due 10 PM — Ch. 1.4-1.7"
+  },
+  {
+   "date": "2026-09-08",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #2 due 10 PM — Ch. 2.1-2.4, 3.15"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #2 due 10 PM — Ch. 2.1-2.4, 2.6, 3.15"
+  },
+  {
+   "date": "2026-09-14",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #3 due 10 PM — Ch. 2.5, 3.1-3.6, 3.8"
+  },
+  {
+   "date": "2026-09-16",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #3 due 10 PM — Ch. 2.5, 3.3, 3.5-3.6, 3.8"
+  },
+  {
+   "date": "2026-09-21",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #4 due 10 PM — Ch. 3.9-3.14"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #4 due 10 PM — Ch. 3.10-3.12, 3.14"
+  },
+  {
+   "date": "2026-10-05",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #5 due 10 PM — Ch. 4.1-4.8"
+  },
+  {
+   "date": "2026-10-07",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #5 due 10 PM — Ch. 4.1, 4.5-4.8"
+  },
+  {
+   "date": "2026-10-12",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #6 due 10 PM — Ch. 4.9-4.10, 4.12, 5.1-5.2"
+  },
+  {
+   "date": "2026-10-14",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #6 due 10 PM — Ch. 4.9-4.12, 5.2"
+  },
+  {
+   "date": "2026-10-26",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #7 due 10 PM — Ch. 5.3-5.4, 6.1-6.5"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #7 due 10 PM — Ch. 5.3, 6.2, 6.4-6.5"
+  },
+  {
+   "date": "2026-11-02",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #8 due 10 PM — Ch. 6.6-6.7, 6.9-6.10"
+  },
+  {
+   "date": "2026-11-04",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #8 due 10 PM — Ch. 6.6-6.7, 6.10"
+  },
+  {
+   "date": "2026-11-09",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #9 due 10 PM — Ch. 6.11-6.13"
+  },
+  {
+   "date": "2026-11-11",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #9 due 12 PM (noon, not 10 PM) — Ch. 6.11-6.12"
+  },
+  {
+   "date": "2026-11-30",
+   "type": "due",
+   "course": "ME316T",
+   "text": "PA #10 due 10 PM — Ch. 5.6-5.7, 2.6, 8.1-8.3"
+  },
+  {
+   "date": "2026-12-02",
+   "type": "due",
+   "course": "ME316T",
+   "text": "CA #10 due 12 PM (noon) — Ch. 5.2, 5.6-5.7, 5.10, 8.2-8.3"
+  },
+  {
+   "date": "2026-12-07",
+   "type": "due",
+   "course": "ME316T",
+   "text": "Extra credit: PA & CA #11 due 10 PM — Ch. 9"
+  },
+  {
+   "date": "2026-09-02",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 1 Quiz (Ch. 1) — ETC 4.150"
+  },
+  {
+   "date": "2026-09-09",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 2 Quiz (Ch. 2) — ETC 4.150"
+  },
+  {
+   "date": "2026-09-16",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 3 Quiz (Ch. 3) — ETC 4.150"
+  },
+  {
+   "date": "2026-09-23",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 4 Quiz (Ch. 3) — ETC 4.150"
+  },
+  {
+   "date": "2026-10-07",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 5 Quiz (Ch. 4) — ETC 4.150"
+  },
+  {
+   "date": "2026-10-14",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 6 Quiz (Ch. 4) — ETC 4.150"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 7 Quiz (Ch. 6) — ETC 4.150"
+  },
+  {
+   "date": "2026-11-04",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 8 Quiz (Ch. 6) — ETC 4.150"
+  },
+  {
+   "date": "2026-11-11",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 9 Quiz (Ch. 6) — ETC 4.150"
+  },
+  {
+   "date": "2026-12-02",
+   "type": "quiz",
+   "course": "ME316T",
+   "text": "HW 10 Quiz (Ch. 5, 8) — ETC 4.150"
+  },
+  {
+   "date": "2026-09-30",
+   "type": "exam",
+   "course": "ME316T",
+   "text": "EXAM 1 — 6-8 PM, CPE 2.206/2.210/2.212/2.216/2.218 · no lecture or discussion that day"
+  },
+  {
+   "date": "2026-10-21",
+   "type": "exam",
+   "course": "ME316T",
+   "text": "EXAM 2 — 6-8 PM, CPE 2.210/2.212/2.214/2.216"
+  },
+  {
+   "date": "2026-11-18",
+   "type": "exam",
+   "course": "ME316T",
+   "text": "EXAM 3 — 6-8 PM, CPE 2.212/2.214/2.216/2.218 · no class 11/18 or 11/20"
+  },
+  {
+   "date": "2026-12-10",
+   "type": "exam",
+   "course": "ME316T",
+   "text": "FINAL EXAM — time and location TBD, check Canvas"
+  },
+  {
+   "date": "2026-08-25",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "NO CLASS — day off"
+  },
+  {
+   "date": "2026-08-27",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 1-3 — Setting the Foundation"
+  },
+  {
+   "date": "2026-09-01",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 4-7 — Filing Lawsuits and Jurisdiction"
+  },
+  {
+   "date": "2026-09-03",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 8-9 — Pretrial and Trial"
+  },
+  {
+   "date": "2026-09-08",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 11-15 — Constitutional Law"
+  },
+  {
+   "date": "2026-09-10",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 11-15 — Constitutional Law"
+  },
+  {
+   "date": "2026-09-15",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 11-15 — Constitutional Law"
+  },
+  {
+   "date": "2026-09-17",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 16 — Ethics"
+  },
+  {
+   "date": "2026-09-22",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 16-17 — Ethics"
+  },
+  {
+   "date": "2026-09-24",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 16-19 — Ethics"
+  },
+  {
+   "date": "2026-10-01",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 51-54 — Employment Law"
+  },
+  {
+   "date": "2026-10-06",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 51-54 Employment Law + Ch. 55-56 Agency Law"
+  },
+  {
+   "date": "2026-10-08",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 22-27 — Torts"
+  },
+  {
+   "date": "2026-10-13",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 22-27 — Torts"
+  },
+  {
+   "date": "2026-10-15",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 22-27 Torts + Ch. 37-40 Contracts"
+  },
+  {
+   "date": "2026-10-20",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "NO CLASS"
+  },
+  {
+   "date": "2026-10-22",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 41-44 — Contracts"
+  },
+  {
+   "date": "2026-10-27",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 45, 47, 49 — Contracts"
+  },
+  {
+   "date": "2026-10-29",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 29, 31, 33, 34 — IP Law (cases not required)"
+  },
+  {
+   "date": "2026-11-05",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 21 — Criminal Law"
+  },
+  {
+   "date": "2026-11-10",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 21 Criminal Law + Ch. 36 Securities Regulation"
+  },
+  {
+   "date": "2026-11-12",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 58-59 — Property Law"
+  },
+  {
+   "date": "2026-11-17",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 58-59 — Property Law"
+  },
+  {
+   "date": "2026-11-19",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Ch. 60 — Wills and Estate Planning"
+  },
+  {
+   "date": "2026-12-01",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Business Entities (no reading)"
+  },
+  {
+   "date": "2026-12-03",
+   "type": "lecture",
+   "course": "LEB",
+   "text": "Topic TBD"
+  },
+  {
+   "date": "2026-09-04",
+   "type": "project",
+   "course": "LEB",
+   "text": "Meet-up group assignment due 11:59 PM"
+  },
+  {
+   "date": "2026-09-20",
+   "type": "due",
+   "course": "LEB",
+   "text": "Assignment #1 due 11:59 PM — 1-3 page response"
+  },
+  {
+   "date": "2026-09-27",
+   "type": "project",
+   "course": "LEB",
+   "text": "Group Ethics Discussion due 11:59 PM"
+  },
+  {
+   "date": "2026-10-28",
+   "type": "due",
+   "course": "LEB",
+   "text": "Assignment #2 due 11:59 PM"
+  },
+  {
+   "date": "2026-11-14",
+   "type": "due",
+   "course": "LEB",
+   "text": "Assignment #3 due 11:59 PM"
+  },
+  {
+   "date": "2026-12-04",
+   "type": "project",
+   "course": "LEB",
+   "text": "Group Ethics Project (video) due 11:59 PM"
+  }
+ ],
+ "grades": [
+  {
+   "course": "EM306",
+   "label": "Final Exam",
+   "weight": "25%",
+   "note": "Mon Dec 14, 10:30 AM-12:30 PM"
+  },
+  {
+   "course": "EM306",
+   "label": "Midterm — highest",
+   "weight": "25%",
+   "note": "Weights scale to your scores"
+  },
+  {
+   "course": "EM306",
+   "label": "Midterm — middle",
+   "weight": "20%",
+   "note": "Tests 10/1, 10/29, 12/3"
+  },
+  {
+   "course": "EM306",
+   "label": "Midterm — lowest",
+   "weight": "15%",
+   "note": "No makeups, ever"
+  },
+  {
+   "course": "EM306",
+   "label": "Weekly Quizzes",
+   "weight": "10%",
+   "note": "Every discussion · two lowest dropped"
+  },
+  {
+   "course": "EM306",
+   "label": "Lecture Attendance",
+   "weight": "5%",
+   "note": "Quiz every lecture · 5 free misses"
+  },
+  {
+   "course": "EM306",
+   "label": "Homework",
+   "weight": "0%",
+   "note": "Never collected — but quiz questions come from it"
+  },
+  {
+   "course": "M427J",
+   "label": "Midterms (3)",
+   "weight": "60%",
+   "note": "20% each · 9/18, 10/9, 10/30 · lowest replaced by final if better"
+  },
+  {
+   "course": "M427J",
+   "label": "Quizzes (13)",
+   "weight": "20%",
+   "note": "Take-home via Canvas · two lowest dropped · never late"
+  },
+  {
+   "course": "M427J",
+   "label": "Final Exam",
+   "weight": "20%",
+   "note": "No makeups, no alternate times"
+  },
+  {
+   "course": "ME316T",
+   "label": "Final Exam",
+   "weight": "20%",
+   "note": "Thu Dec 10 · time TBD"
+  },
+  {
+   "course": "ME316T",
+   "label": "HW Quizzes",
+   "weight": "15%",
+   "note": "Every discussion · two drops"
+  },
+  {
+   "course": "ME316T",
+   "label": "Exam 1",
+   "weight": "15%",
+   "note": "Wed 9/30, 6-8 PM"
+  },
+  {
+   "course": "ME316T",
+   "label": "Exam 2",
+   "weight": "15%",
+   "note": "Wed 10/21, 6-8 PM"
+  },
+  {
+   "course": "ME316T",
+   "label": "Exam 3",
+   "weight": "15%",
+   "note": "Wed 11/18, 6-8 PM"
+  },
+  {
+   "course": "ME316T",
+   "label": "Participation (PA)",
+   "weight": "10%",
+   "note": "zyBook · Mondays 10 PM · under 20 min each"
+  },
+  {
+   "course": "ME316T",
+   "label": "Challenge (CA)",
+   "weight": "10%",
+   "note": "zyBook · Wednesdays 10 PM · 45 min-2 hrs each"
+  },
+  {
+   "course": "LEB",
+   "label": "Final Exam",
+   "weight": "25 pts",
+   "note": "Cumulative, on Zoom, camera on, open note"
+  },
+  {
+   "course": "LEB",
+   "label": "Midterm #2",
+   "weight": "20 pts",
+   "note": "In class · one page of notes allowed"
+  },
+  {
+   "course": "LEB",
+   "label": "Group Work",
+   "weight": "16 pts",
+   "note": "Meet-up, ethics discussion, final video project"
+  },
+  {
+   "course": "LEB",
+   "label": "Midterm #1",
+   "weight": "15 pts",
+   "note": "In class · date TBD"
+  },
+  {
+   "course": "LEB",
+   "label": "Class Participation",
+   "weight": "15 pts",
+   "note": "Graded vs the class · attendance is not participation"
+  },
+  {
+   "course": "LEB",
+   "label": "Class Assignments",
+   "weight": "9 pts",
+   "note": "1-3 page responses · two Grace Days total"
+  }
+ ],
+ "courses": [
+  {
+   "code": "EM306",
+   "name": "E M 306 Statics",
+   "unique": "16160",
+   "prof": "Chad M. Landis",
+   "when": "MWF 9:00-9:50 · WEL 3.502",
+   "disc": "Wed 4-6 PM · CMA 3.114 · weekly quiz",
+   "oh": "Tue 10:30-11:30, Wed 2:30-3:30 · ASE 5.214",
+   "ai": "AI STRICTLY PROHIBITED — no ideas, outlines, or getting unstuck"
+  },
+  {
+   "code": "M427J",
+   "name": "M 427J Diff Eq w/ Linear Algebra",
+   "unique": "58955",
+   "prof": "John Meth",
+   "when": "MWF 11:00-12:00 · PAI 3.02",
+   "disc": "TTh 5-6 PM · PMA 4.102 — confirmed on your registrar schedule",
+   "oh": "Mon & Fri 2-3 · PMA 9.144 (conflicts with your Thermo lecture — email instead)",
+   "ai": "Permitted to study and check work · never on exams · no software-generated solutions on quizzes, no decimals"
+  },
+  {
+   "code": "ME316T",
+   "name": "M E 316T Thermodynamics",
+   "unique": "19895",
+   "prof": "Adrian Rodriguez",
+   "when": "MWF 2:00-3:00 · BUR 112",
+   "disc": "Wed 6-7 PM · ETC 4.150",
+   "oh": "Wed 11-12 · ETC T-Room (conflicts with M 427J lecture — email instead)",
+   "ai": "Partially permitted, must disclose · never on quizzes or midterms"
+  },
+  {
+   "code": "LEB",
+   "name": "LEB 320F Business Law & Ethics",
+   "unique": "04255",
+   "prof": "David Quintanilla",
+   "when": "TTh 12:30-2:00 · GSB 2.124",
+   "disc": "—",
+   "oh": "Tue 8:30-9:15, Wed 11-12 · GSB 5.137 · Zoom Wed 1-2",
+   "ai": "Permitted with FULL prompt transcript submitted · never on exams"
+  }
+ ],
+ "weekPlan": [
+  {
+   "n": 1,
+   "start": "2026-08-24",
+   "phase": "Phase 0 — Setup Sprint",
+   "aero": "Setup only, no modeling yet. Create the GitHub account and a repo called aerospace-portfolio with a README. Install Fusion 360 with your .utexas.edu email (free education license). Order the ESP32 starter kit (~$35: board, breadboard, jumpers, LEDs, resistors, buttons, SG90 servo).",
+   "aeroDone": "Repo exists and is public. Fusion opens. Kit ordered with a delivery date before October.",
+   "py": "Git itself, not Python yet. Learn commit, branch, push, and how to write a README in Markdown.",
+   "pyDone": "Three commits pushed to aerospace-portfolio from your own machine.",
+   "apps": "Confirm export-control / US person eligibility — it determines half your target list. Create your NASA STEM Gateway profile. Rebuild the resume per the Resume_Plan tab.",
+   "debt": "If you miss a day here, double up Saturday. Nothing this week takes real skill, only clicks — it is the cheapest week in the semester to catch up."
+  },
+  {
+   "n": 2,
+   "start": "2026-08-31",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Fusion fundamentals: sketch mode, constraints, dimensions. Product Design Online on YouTube or Autodesk’s beginner series. Do not model anything real yet.",
+   "aeroDone": "You can draw a fully-constrained sketch (all black, no blue lines) without following a video.",
+   "py": "Python refresher: variables, functions, control flow, running a script from the terminal.",
+   "pyDone": "A script you wrote runs from the command line and prints a result.",
+   "apps": "ORG FAIR WEEK. Find TREL / Longhorn Racing / Texas Aerial Robotics — Instagram, Discord, the fair. Apply to all three. Build the 30-employer target list with careers-page URLs.",
+   "debt": "The org fair does not repeat. If something has to slip this week, slip the CAD tutorials, not the team applications."
+  },
+  {
+   "n": 3,
+   "start": "2026-09-07",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Extrude, revolve, fillet, chamfer. Start the phone stand: sketch the profile, extrude, add a lip.",
+   "aeroDone": "Phone stand modeled in Fusion. Not printed yet.",
+   "py": "Functions and modules. Start the Engineering Calculator: axial stress, sigma = F/A.",
+   "pyDone": "A stress() function that takes force and area and returns stress, with one test.",
+   "apps": "WAVE 1 — NASA OSTEM Spring 2027 (hard deadline Sep 14, write it yourself), Lockheed Martin, Northrop Grumman, Boeing, RTX. Email 3 UT ASE/ME professors about research spots.",
+   "debt": "Labor Day Monday means no Python block. Move it to Tuesday evening or accept a 2-hour Python week."
+  },
+  {
+   "n": 4,
+   "start": "2026-09-14",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Print the phone stand. Learn your slicer: layer height, infill, supports, orientation. Photograph it and write the README section.",
+   "aeroDone": "PROJECT 1 DONE — CAD file, photo, and README on GitHub.",
+   "py": "Input validation and units. Add strain and Young’s modulus to the calculator.",
+   "pyDone": "Three working functions that reject bad input instead of crashing.",
+   "apps": "WAVE 2 starts. 2-3 apps: L3Harris, General Dynamics. M 427J Exam 1 is Friday, so keep the Sunday block short.",
+   "debt": "A failed print is not a missed day — log it in Weekly_Log as a real lesson. Reprinting counts."
+  },
+  {
+   "n": 5,
+   "start": "2026-09-21",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Desk organizer. Practice parametric dimensions — drive the model from a parameters table so one number changes the whole part.",
+   "aeroDone": "Modeled and sliced, print started.",
+   "py": "NumPy: arrays, vectorized math, why loops are slow.",
+   "pyDone": "Compute stress across an array of 100 loads in one line.",
+   "apps": "2-3 apps: SpaceX, Firefly Aerospace. You have one printed part now — name it in the application.",
+   "debt": "If CAD slips, the Saturday block absorbs it. If Python slips two weeks running, cut Coursera and keep Python."
+  },
+  {
+   "n": 6,
+   "start": "2026-09-28",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Print and document the desk organizer.",
+   "aeroDone": "PROJECT 2 DONE on GitHub. Two parts in the portfolio.",
+   "py": "Beam deflection: cantilever and simply-supported formulas.",
+   "pyDone": "A deflection() function matching a textbook example to 3 significant figures.",
+   "apps": "Finish Wave 2: GE Aerospace, Honeywell, Collins, Blue Origin. TARGET — 13 apps total by Sep 30.",
+   "debt": "HEAVY WEEK: Thermo Exam 1 Wed 9/30, Statics Test 1 Thu 10/1. Coursework wins. Push all build work to Saturday and accept it."
+  },
+  {
+   "n": 7,
+   "start": "2026-10-05",
+   "phase": "Phase 1A — Team + CAD",
+   "aero": "Servo mount. Look up the SG90 datasheet, model to real dimensions. Learn clearance fits and tolerances — this part has to actually fit a physical object.",
+   "aeroDone": "Mount modeled from datasheet dimensions, not guesses.",
+   "py": "Factor of safety plus a command-line menu tying the functions together.",
+   "pyDone": "Calculator runs end to end from the terminal.",
+   "apps": "WAVE 3 starts: NASA Pathways on USAJOBS (opens ~Oct 1), Texas Instruments. M 427J Exam 2 is Friday.",
+   "debt": "The servo mount is the single most reused part in this whole plan — Stage 2 depends on it. Do not skip ahead of it."
+  },
+  {
+   "n": 8,
+   "start": "2026-10-12",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Print the mount, test fit, iterate. Expect two or three attempts.",
+   "aeroDone": "PROJECT 3 DONE — servo fits, documented, with the failed attempts photographed too.",
+   "py": "Matplotlib: your first plot, stress vs load.",
+   "pyDone": "A saved .png with axes labeled and units shown.",
+   "apps": "2-3 apps: Toyota, Caterpillar, John Deere.",
+   "debt": "Tolerance iteration is the lesson here. If it fits first try you probably guessed the dimensions — check them against the datasheet."
+  },
+  {
+   "n": 9,
+   "start": "2026-10-19",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Assemblies and joints: a two-gear assembly or a working hinge. This is what separates \"I know CAD\" from \"I can hand this to a machinist.\"",
+   "aeroDone": "An assembly with a joint that actually moves in Fusion.",
+   "py": "Plot formatting: labels, legends, gridlines, publication quality.",
+   "pyDone": "Three clean plots you would put in a report.",
+   "apps": "2-3 apps: Chevron, ExxonMobil. Thermo Exam 2 is Wed 10/21.",
+   "debt": "Exam week. Build work goes to Saturday. This is what the Saturday catch-up block exists for."
+  },
+  {
+   "n": 10,
+   "start": "2026-10-26",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Drawings: a dimensioned drawing sheet and an exploded view. Then write the Stage 1 portfolio page.",
+   "aeroDone": "STAGE 1 COMPLETE — 4 parts, drawings, portfolio page live.",
+   "py": "Write tests. Pytest or plain asserts, either is fine.",
+   "pyDone": "A test suite that passes and catches one deliberate bug.",
+   "apps": "Halliburton, Tesla. TARGET — 22 apps total by Oct 31. Statics Test 2 Thu 10/29, M 427J Exam 3 Fri 10/30.",
+   "debt": "Hardest 48 hours of your semester on Thu-Fri. Do the applications Sunday BEFORE you start exam prep, not after."
+  },
+  {
+   "n": 11,
+   "start": "2026-11-02",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Electronics begin. Breadboard basics, Ohm’s law, reading a schematic, then blink an LED. Paul McWhorter’s series or Random Nerd Tutorials.",
+   "aeroDone": "An LED blinking from wiring you did yourself, without a tutorial open.",
+   "py": "Finish the calculator: README, docstrings, push.",
+   "pyDone": "PYTHON ENGINEERING CALCULATOR COMPLETE on GitHub. Resume line earned.",
+   "apps": "WAVE 4 — your best-odds wave. Rocket Lab, Axiom Space, Intuitive Machines. You now have 4 CAD parts and a Python tool to talk about.",
+   "debt": "If the ESP32 kit has not arrived, this is the week it hurts. Order it in week 1."
+  },
+  {
+   "n": 12,
+   "start": "2026-11-09",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Button input and debouncing. Why a button press registers five times and how to stop it.",
+   "aeroDone": "A button toggles the LED reliably, no double-fires.",
+   "py": "ESP32 / Arduino C++ basics: how the syntax differs from Python, pinMode, digitalWrite.",
+   "pyDone": "You can read an Arduino sketch and say what each line does.",
+   "apps": "Sierra Space, Venus Aerospace, Moog. Thermo Exam 3 is Wed 11/18 next week — start reviewing now.",
+   "debt": "Debouncing takes longer than it looks. Budget the Saturday block for it."
+  },
+  {
+   "n": 13,
+   "start": "2026-11-16",
+   "phase": "Phase 1B — Electronics",
+   "aero": "Servo sweep. PWM, angle control, powering a servo without browning out the board.",
+   "aeroDone": "Servo sweeps 0 to 180 and holds commanded angles.",
+   "py": "Serial output, timing, millis() vs delay() and why delay() blocks everything.",
+   "pyDone": "Live data streaming to the serial monitor.",
+   "apps": "JPL, Johns Hopkins APL. FFRDCs — a fraction of the volume of the famous names. Thermo Exam 3 Wed.",
+   "debt": "Thanksgiving is next week with no classes. Anything you owe, that week absorbs it — plan 10-15 hrs there."
+  },
+  {
+   "n": 14,
+   "start": "2026-11-30",
+   "phase": "Phase 1B — Electronics",
+   "aero": "INTEGRATION. Servo into your printed mount, wired, coded, filmed. This is the whole point of Stage 2.",
+   "aeroDone": "A working mechanism plus a 30-second demo video.",
+   "py": "Read serial into Python, write a CSV.",
+   "pyDone": "A data pipeline running hardware to CSV to a plot.",
+   "apps": "The Aerospace Corporation, AFRL. Statics Test 3 is Thu 12/3.",
+   "debt": "If integration is not done by Sunday, it moves into finals week and then winter break. Do not let it slide past Christmas."
+  },
+  {
+   "n": 15,
+   "start": "2026-12-07",
+   "phase": "Finals — Phase 1B closes",
+   "aero": "Documentation only. Wiring diagram, commented code, README with lessons learned. No new building during finals.",
+   "aeroDone": "STAGE 2 DOCUMENTED on GitHub. Resume v2 draft started.",
+   "py": "Plot your CSV data. Close the loop from sensor to graph.",
+   "pyDone": "One plot generated from data your own hardware produced.",
+   "apps": "Nothing new. Finals: Thermo Thu 12/10, Statics Mon 12/14 10:30 AM.",
+   "debt": "Coursework only this week. The late-December application wave (12 companies) is scheduled for Dec 27."
+  }
+ ]
+}

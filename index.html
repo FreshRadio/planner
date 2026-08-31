@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1B2420">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Fall 26">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="stylesheet" href="app.css">
+<title>Fall 2026</title>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="mast-row">
+    <div>
+      <div class="mast-day" id="mastDay">—</div>
+      <div class="mast-date" id="mastDate"></div>
+    </div>
+    <div class="mast-right">
+      <div class="mast-count" id="mastCount"></div>
+      <div class="mast-week" id="mastWeek"></div>
+    </div>
+  </div>
+  <div class="mast-next" id="mastNext"></div>
+</header>
+
+<main>
+
+<section class="view is-active" id="v-day">
+  <div class="daynav">
+    <button class="daynav-btn" id="dayPrev" aria-label="Previous day">‹</button>
+    <span class="daynav-label" id="dayLabel"></span>
+    <button class="daynav-btn" id="dayNext" aria-label="Next day">›</button>
+    <button class="daynav-today" id="dayToday">Today</button>
+  </div>
+  <div class="rail" id="rail"></div>
+  <div class="daybar">
+    <div class="daybar-label" id="dayProgLabel"></div>
+    <div class="meter"><span id="dayProgFill"></span></div>
+  </div>
+</section>
+
+<section class="view" id="v-plan">
+  <div class="daynav">
+    <button class="daynav-btn" id="planPrev" aria-label="Previous week">‹</button>
+    <span class="daynav-label" id="planLabel"></span>
+    <button class="daynav-btn" id="planNext" aria-label="Next week">›</button>
+    <button class="daynav-today" id="planNow">Now</button>
+  </div>
+  <div id="planBody"></div>
+</section>
+
+<section class="view" id="v-tasks">
+  <div class="filters" id="filters">
+    <button class="chip is-on" data-filter="all">All</button>
+    <button class="chip" data-filter="graded">Graded</button>
+    <button class="chip" data-filter="exam">Exams</button>
+    <button class="chip" data-filter="quiz">Quizzes</button>
+    <button class="chip" data-filter="due">Due</button>
+    <button class="chip" data-filter="project">Projects</button>
+    <button class="chip" data-filter="career">Career</button>
+    <button class="chip" data-filter="lecture">Lectures</button>
+  </div>
+  <div class="daybar">
+    <div class="daybar-label" id="taskProgLabel"></div>
+    <div class="meter"><span id="taskProgFill"></span></div>
+  </div>
+  <div id="taskBody"></div>
+</section>
+
+<section class="view" id="v-ref">
+  <div class="filters" id="refTabs">
+    <button class="chip is-on" data-ref="courses">Courses</button>
+    <button class="chip" data-ref="grades">Grades</button>
+    <button class="chip" data-ref="books">Books</button>
+  </div>
+  <div id="refBody"></div>
+</section>
+
+<section class="view" id="v-sync">
+  <div class="sync-state" id="syncState"></div>
+
+  <h2 class="sync-h">Paste an update</h2>
+  <p class="sync-p">Ask Claude for a planner update, copy the JSON block it gives you, and paste it here. Everything reloads immediately and stays on this phone.</p>
+  <textarea id="syncInput" placeholder='{"version": "...", "events": [ ... ]}' spellcheck="false"></textarea>
+  <div class="sync-actions">
+    <button class="btn btn-go" id="syncApply">Apply update</button>
+    <button class="btn" id="syncRevert">Reset to published</button>
+  </div>
+  <div class="sync-msg" id="syncMsg"></div>
+
+  <h2 class="sync-h">Export what you have</h2>
+  <p class="sync-p">Copy your current data back out — paste it to Claude when you want changes made to it, or commit it to your repo so other devices get it too.</p>
+  <div class="sync-actions">
+    <button class="btn" id="syncCopy">Copy current data</button>
+  </div>
+</section>
+
+</main>
+
+<nav class="tabbar">
+  <button class="tabbtn is-on" data-view="day"><span class="ti">▤</span>Day</button>
+  <button class="tabbtn" data-view="plan"><span class="ti">◈</span>Plan</button>
+  <button class="tabbtn" data-view="tasks"><span class="ti">✓</span>Tasks</button>
+  <button class="tabbtn" data-view="ref"><span class="ti">▦</span>Ref</button>
+  <button class="tabbtn" data-view="sync"><span class="ti">↻</span>Sync</button>
+</nav>
+
+<script src="app.js"></script>
+</body>
+</html>
